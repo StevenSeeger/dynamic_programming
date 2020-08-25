@@ -1,1 +1,1 @@
-# knapsack_dynamic_programming
+# Dynamic Programming
